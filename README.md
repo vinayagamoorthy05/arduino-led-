@@ -11,3 +11,4 @@ Simple led blinking project
   220ohm resistor
 
   ##screenshot
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/159c11ab-3271-4f98-a230-8b1e025049c1" />
